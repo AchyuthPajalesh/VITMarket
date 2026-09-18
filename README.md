@@ -9,7 +9,7 @@ VITMarket is a campus commerce platform designed for VIT students to discover, c
 ❤️ Favorites — Save products for quick access.
 📊 Demand Insights — Support smarter product and inventory decisions.
 📱 Responsive Design — Designed for both desktop and mobile use.
-🖥️ Windows Version
+🖥️ Currently only Windows Version
 
 This repository contains the ready-to-use Windows version of VITMarket.
 
